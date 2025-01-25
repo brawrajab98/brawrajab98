@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brawrajab98" alt="brawrajab98" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **postgresql**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel/next**
 
 - 📫 How to reach me **braw.bestun@gmail.com**
 
